@@ -9,7 +9,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
+ *ca.marhoum.mavenproject
  * @author marhoum
  */
 public class additionIT {
