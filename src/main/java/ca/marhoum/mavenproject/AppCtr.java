@@ -12,6 +12,6 @@ package ca.marhoum.mavenproject;
 public class AppCtr {
         public static void main(String[] args) {
            int resulat= addition.add(2,6);
-            System.out.println("resultat " + resulat);
+            System.out.println("resultat " + resulat); 
         }
 }
